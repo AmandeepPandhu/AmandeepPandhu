@@ -35,3 +35,36 @@ public static void main(String args[])
 aman b=new aman();
 }
 }
+
+facterial in c
+#include<stdio.h>
+void main()
+{
+int c,a,p;
+p=1;
+printf("enter value");
+scanf("%d",&c);
+for(a=1;a<=c;a++)
+{
+p=p×a;
+}
+printf("%d",&p);
+getch();
+}
+
+swap in c
+#include<stdio.h>
+void main()
+{
+int a,b,c;
+printf("enter a value");
+scanf("%d",&a);
+printf("enter b value");
+scanf("%d",&b);
+c=a;
+a=b;
+b=c;
+printf("/n a value=%d"a);
+printf("/n b value=%d"b);
+getch();
+}
