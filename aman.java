@@ -1,5 +1,7 @@
+
+class in java
 import java.util.*;
-Class sample
+class aman
 {
 int a,b;
 void getdata ()
@@ -23,7 +25,7 @@ s.show();
 }
 
 Constructor
-
+import java.util.*;
 class aman
 {
 aman()={System.out.println("chak manne wala");
