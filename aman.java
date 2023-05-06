@@ -64,7 +64,7 @@ scanf("%d",&b);
 c=a;
 a=b;
 b=c;
-printf("/n a value=%d"a);
-printf("/n b value=%d"b);
+printf("/n a value=%d",a);
+printf("/n b value=%d",b);
 getch();
 }
