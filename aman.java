@@ -22,3 +22,14 @@ s.show();
 }
 }
 
+Constructor
+
+class aman
+{
+aman()={System.out.println("chak manne wala");
+}
+public static void main(String args[])
+{
+aman b=new aman();
+}
+}
