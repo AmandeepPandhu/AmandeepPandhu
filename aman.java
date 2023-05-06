@@ -2,7 +2,6 @@ import java.util.*;
 Class sample
 {
 int a,b;
-{
 void getdata ()
 {
 a=45;
